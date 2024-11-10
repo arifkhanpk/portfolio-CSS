@@ -6,7 +6,7 @@ import Link from "next/link";
 import styles from "./projects.module.css";
 
 
-  export default function Contact() {
+  export default function Projects() {
 
   return (
     <div className={styles.projects}>
@@ -16,7 +16,7 @@ import styles from "./projects.module.css";
 
           {/* Foodies */}          
             <Image
-              src="/images/foodies.png"
+              src="/images/Foodies.png"
               alt="Foodies"
               width={900}
               height={600}
