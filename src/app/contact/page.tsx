@@ -1,4 +1,3 @@
-
 import React from "react";
 import {
   FaPaperPlane,
@@ -26,7 +25,7 @@ export default function Contact() {
               </Link>
             </div>
             <Link
-              href="/Images/Arif-CV.pdf"
+              href="/images/Arif-CV.pdf"
               download
               className={styles.downloadCV} >
               Download CV

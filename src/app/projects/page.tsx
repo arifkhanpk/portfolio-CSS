@@ -1,5 +1,4 @@
 
-
 import { FaExternalLinkAlt } from "react-icons/fa";
 import Image from "next/image";
 import Link from "next/link";
@@ -16,7 +15,7 @@ import styles from "./projects.module.css";
 
           {/* Foodies */}          
             <Image
-              src="/Images/Foodies.png"
+              src="/images/Foodies.png"
               alt="Foodies"
               width={900}
               height={600}
