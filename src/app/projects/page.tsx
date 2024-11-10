@@ -16,7 +16,7 @@ import styles from "./projects.module.css";
 
           {/* Foodies */}          
             <Image
-              src="/images/Foodies.png"
+              src="/Images/Foodies.png"
               alt="Foodies"
               width={900}
               height={600}

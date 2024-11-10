@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import React from "react";
 import {
   FaPaperPlane,
@@ -28,7 +28,7 @@ export default function Contact() {
             <Link
               href="/Images/Arif-CV.pdf"
               download
-              className={styles.downloadCV}            >
+              className={styles.downloadCV} >
               Download CV
             </Link>
           </div>
